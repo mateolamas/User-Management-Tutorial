@@ -1,5 +1,5 @@
 {
-    "name": "node-template",
+    "name": "User-Management",
     "version": "1.0.0",
     "type": "module",
     "description": "Plantilla base para los proyectos desarrollados en el curso de Node.JS de la plataforma LearnThis Academy",
